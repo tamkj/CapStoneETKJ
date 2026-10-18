@@ -5,7 +5,7 @@
 CapStone Project for VLC-SCADF (LHub)
 
 ### Problem Statement
-Use data analytic to analyse how do NOCs perform in Summer and Winter Olumpics and what is(are) the factor(s) that contribute to success of NOCs in those events.
+Use data analytic to analyse how do NOCs (National Olympic Committee) perform in Summer and Winter Olumpics and what is(are) the factor(s) that contribute to success of NOCs in those events.
 
 ### Research Objective
 1. Is there a relationship between number of participant and the number of medals of each NOCs
