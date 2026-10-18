@@ -23,6 +23,7 @@ Use data analytic to analyse how do NOCs perform in Summer and Winter Olumpics a
 5. If there is a relationship between athlete profile (ie height/weight) and medal probability, and if there is an optimal winning profile by sport?
 > Evaluate the profile (age/height) of medal recipients and if there is a relation between profile and medal recipients.
 
-## Dataset Overrview
+### Dataset Overview
+
 
 
