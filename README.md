@@ -24,12 +24,20 @@ Use data analytic to analyse how do NOCs (National Olympic Committee) perform in
    > Evaluate the profile (age/height) of medal recipients and if there is a relation between profile and medal recipients.
 
 ### Dataset Overview
+**Filename** : athlete_events(fr1996).csv  
+**Time Horizone** : 1996 - 2016  
+**  
+
+Link to Jypyter Notebook in   
+
 
 ### Data Dictionary
 The dataset consists of the following :
 
-### Data Quality and Cleaning Notes
 
+### Data Quality and Cleaning Notes
+- Pre 1996 data are remove as the data is remote to current situation
+-  
 
 
 
