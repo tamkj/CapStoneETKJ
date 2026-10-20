@@ -33,6 +33,12 @@ Link to Jypyter Notebook in Google Colab :  https://github.com/tamkj/CapStoneETK
 
 ### Data Dictionary
 The dataset consists of the following :
+| Column Name | Data Type | Description | Example Value |
+| ----------- | --------- | ----------- | ------------- |
+| ID | int64 | Game participant's ID | 135565 |
+| Name | object | Game participant's name | Fernando scar Zylberberg |
+| Sex | object | Game participant's sex | M |
+
 
 
 ### Data Quality and Cleaning Notes
