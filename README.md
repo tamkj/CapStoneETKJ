@@ -25,10 +25,10 @@ Use data analytic to analyse how do NOCs (National Olympic Committee) perform in
 
 ### Dataset Overview
 **Filename** : athlete_events(fr1996).csv  
-**Time Horizone** : 1996 - 2016  
+**Time Horizone** : 1896 - 2016  
 **  
 
-Link to Jypyter Notebook in   
+Link to Jypyter Notebook in Google Colab :  https://github.com/tamkj/CapStoneETKJ/blob/main/CapStone_Sport.ipynb
 
 
 ### Data Dictionary
