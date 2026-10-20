@@ -5,7 +5,7 @@
 CapStone Project for VLC-SCADF (LHub)
 
 ### Problem Statement
-Use data analytic to analyse how do NOCs (National Olympic Committee) perform in Summer and Winter Olumpics and what is(are) the factor(s) that contribute to success of NOCs in those events.
+Use data analytic to analyse how do NOCs (National Olympic Committee) perform in Summer Olumpics and what is(are) the factor(s) that contribute to success of NOCs in those events.
 
 ### Research Objective
 1. Is there a relationship between number of participant and the number of medals of each NOCs
@@ -56,12 +56,14 @@ Data issue
 2. Team looks unusual for some, will use NOC's name instead
 3. noc_region.csv - some country name is listed in note 
 4. noc_region.csv - Name of fields is in 2nd row of each column.
-5. Respective host cities and countries (ie hostare sourced from internet.
+5. Respective host cities and countries (ie SummmerOlympic2.cvs) are sourced from internet.
 
 Cleansing
-1. Host Country list from Internet is in English, to update Host country data set to include non-English name
-3. Join main csv and Host city list
-4. Remove unnecessary columns
+1. Remove data related to winter games
+2. Host_city_list (ie SummerOlympic2) from Internet is in English, to update host country data set to include non-English name
+3. Join main table and Host_city_list
+4. Join NOC_region table to main table
+5. Remove unnecessary columns (ie Team, Games, Season) 
 
 
  
