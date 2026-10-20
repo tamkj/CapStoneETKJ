@@ -51,10 +51,18 @@ The dataset consists of the following :
 | region | object | Country of NOC | Russia |
 
 ### Data Quality and Cleaning Notes
+Data issue
 1. Host city name not in English (eg Athina, Roma)
 2. Team looks unusual for some, will use NOC's name instead
 3. noc_region.csv - some country name is listed in note 
 4. noc_region.csv - Name of fields is in 2nd row of each column.
+5. Respective host cities and countries (ie hostare sourced from internet.
+
+Cleansing
+1. Host Country list from Internet is in English, to update Host country data set to include non-English name
+3. Join main csv and Host city list
+4. Remove unnecessary columns
+
 
  
 
