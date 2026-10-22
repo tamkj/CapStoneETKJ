@@ -54,9 +54,10 @@ The dataset consists of the following :
 Data issue
 1. Host city name not in English (eg Athina, Roma)
 2. Team looks unusual for some, will use NOC's name instead
-3. noc_region.csv - some country name is listed in note 
-4. noc_region.csv - Name of fields is in 2nd row of each column.
-5. Respective host cities and countries (ie SummmerOlympic2.cvs) are sourced from internet.
+3. Age 75 and above - mainly for event from 1912 to 1948.
+4. noc_region.csv - some country name is listed in note 
+5. noc_region.csv - Name of fields is in 2nd row of each column.
+6. Respective host cities and countries (ie SummmerOlympic2.cvs) are sourced from internet.
 
 Cleansing
 1. Remove data related to winter games
