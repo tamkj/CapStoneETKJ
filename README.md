@@ -11,7 +11,7 @@ Use data analytic to analyse how do NOCs (National Olympic Committee) perform in
 1. Is there a relationship between number of participant and the number of medals won by each NOCs
    > Evaluate the relation between number of participant each NOCs sent and the number of medals each NOCs received.
 
-2. Does Host Nation have an medal advantage? 
+2. Does Host Nation have a medal advantage? 
    > Evaluation the relationship between the Host Nation and the number of medals the Host Nation received compare to the total available.
 
 3. How has the number of distinct NOCs entering each sport changed over time, and which sport experienced the fastest growth in NOC participation?
@@ -24,8 +24,8 @@ Use data analytic to analyse how do NOCs (National Olympic Committee) perform in
    > Evaluate the profile (BMI) of medal recipients and which profile has the highest medal conversion.
 
 ### Dataset Overview
-**Filename** : athlete_events(fr1996).csv  
-**Time Horizone** : 1896 - 2016  
+**Filename** : athlete_events_to1994.csv, athlete_events_fr1996.csv.   
+**Time Horizone** : 1896 - 2016 
 
 Link to Jypyter Notebook in Google Colab :  https://github.com/tamkj/CapStoneETKJ/blob/main/CapStone_Sport.ipynb
 
