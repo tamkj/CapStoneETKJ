@@ -35,7 +35,7 @@ Use data analytic to analyse how do NOCs (National Olympic Committee) perform in
 ### Data Dictionary
 The dataset consists of the following :
 | Column Name | Data Type | Description | Example Value |
-| ----------- | --------- | ----------- | ------------- |
+| ----------- | :-------: | ----------- | ------------- |
 | ID | int64 | Game participant's ID | 135563 |
 | Name | object | Game participant's name | Olesya Nikolayevna Zykina |
 | Sex | object | Game participant's sex | F |
@@ -71,6 +71,9 @@ Cleansing
 6. Remove unnecessary columns (ie Team, Games, Season). 
 
 **Extract of Python Code**  
+
+<img width="832" height="237" alt="image" src="https://github.com/user-attachments/assets/aa7b6c7a-f34e-4ed6-8a54-7c07c72ceb1a" />
+
 
 
  
