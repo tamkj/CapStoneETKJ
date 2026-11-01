@@ -3,8 +3,10 @@
 **Streamlit : https://mpvxtsscmubyeqp6ygp5sn.streamlit.app/**  
 **Link to Jupyter Notebook in Google Colab :** https://colab.research.google.com/drive/13hpCX46rp3bl_4r5vwNL9Lx96IE2pVMe
 
+
 ### Olympic Games Analytics
 CapStone Project for VLC-SCADF (LHub)
+
 
 ### Problem Statement
 Use data analytic to analyse how do NOCs (National Olympic Committee) perform in Summer Olumpics and what is(are) the factor(s) that contribute to success of NOCs in those events.
@@ -49,6 +51,7 @@ The dataset consists of the following :
 | Host_Cty | object | Host country | Australia |
 | region | object | Country of NOC | Russia |
 
+
 ### Data Quality and Cleaning Notes
 Data issue
 1. Host city name not in English (eg Athina, Roma)
@@ -66,6 +69,8 @@ Cleansing
 4. Change SIN in main dataset to SGP.
 5. Join NOC_region table to main table.
 6. Remove unnecessary columns (ie Team, Games, Season). 
+
+**Extract of Python Code**  
 
 
  
