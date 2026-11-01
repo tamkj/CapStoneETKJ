@@ -1,5 +1,7 @@
 **Prepared by : Tam Kam Jiunn**  
 **Dataset : Sport**  
+**Streamlit : https://mpvxtsscmubyeqp6ygp5sn.streamlit.app/**
+**Link to Jupyter Notebook in Google Colab :**
 
 ### Olympic Games Analytics
 CapStone Project for VLC-SCADF (LHub)
@@ -67,7 +69,7 @@ Cleansing
 5. Join NOC_region table to main table.
 6. Remove unnecessary columns (ie Team, Games, Season). 
 
-Streamlit : https://mpvxtsscmubyeqp6ygp5sn.streamlit.app/
+
  
 
 
