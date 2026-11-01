@@ -75,8 +75,9 @@ Cleansing
 **Extract of Python Code** to clean and prepare the data  
 
 <img width="832" height="237" alt="image" src="https://github.com/user-attachments/assets/aa7b6c7a-f34e-4ed6-8a54-7c07c72ceb1a" />
-
-
+  
+**Sample Dashboard from Power BI**
+<img width="611" height="305" alt="image" src="https://github.com/user-attachments/assets/4e54998b-9fd0-41eb-a337-ad5be159a743" />
 
  
 
