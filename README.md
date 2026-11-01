@@ -1,7 +1,7 @@
 **Prepared by : Tam Kam Jiunn**  
 **Dataset : Sport**  
-**Streamlit : https://mpvxtsscmubyeqp6ygp5sn.streamlit.app/**
-**Link to Jupyter Notebook in Google Colab :**
+**Streamlit : https://mpvxtsscmubyeqp6ygp5sn.streamlit.app/**  
+**Link to Jupyter Notebook in Google Colab :** https://colab.research.google.com/drive/13hpCX46rp3bl_4r5vwNL9Lx96IE2pVMe
 
 ### Olympic Games Analytics
 CapStone Project for VLC-SCADF (LHub)
@@ -28,8 +28,6 @@ Use data analytic to analyse how do NOCs (National Olympic Committee) perform in
 ### Dataset Overview
 **Filename** : athlete_events_to1994.csv, athlete_events_fr1996.csv.   
 **Time Horizone** : 1896 - 2016 
-
-Link to Jypyter Notebook in Google Colab :  https://github.com/tamkj/CapStoneETKJ/blob/main/CapStone_Sport.ipynb
 
 
 ### Data Dictionary
