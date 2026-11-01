@@ -7,6 +7,8 @@
 ### Olympic Games Analytics
 CapStone Project for VLC-SCADF (LHub)
 
+The Olympic Games Analytics dataset contains athlete participation and medal performance records from the modern Olympic Games. The dataset supports sports analytics, athlete performance analysis, country benchmarking, medal trend analysis, and historical reporting. By combining athlete participation records with National Olympic Committee reference information, analysts can evaluate Olympic performance across countries, sports, events, genders, and Olympic editions.
+
 
 ### Problem Statement
 Use data analytic to analyse how do NOCs (National Olympic Committee) perform in Summer Olumpics and what is(are) the factor(s) that contribute to success of NOCs in those events.
@@ -70,7 +72,7 @@ Cleansing
 5. Join NOC_region table to main table.
 6. Remove unnecessary columns (ie Team, Games, Season). 
 
-**Extract of Python Code**  
+**Extract of Python Code** to clean and prepare the data  
 
 <img width="832" height="237" alt="image" src="https://github.com/user-attachments/assets/aa7b6c7a-f34e-4ed6-8a54-7c07c72ceb1a" />
 
