@@ -1,7 +1,8 @@
 **Prepared by : Tam Kam Jiunn**  
 **Dataset : Sport**  
 **Streamlit : https://mpvxtsscmubyeqp6ygp5sn.streamlit.app/**  
-**Link to Jupyter Notebook in Google Colab :** https://colab.research.google.com/drive/13hpCX46rp3bl_4r5vwNL9Lx96IE2pVMe
+**Link to Jupyter Notebook in Google Colab :** https://colab.research.google.com/drive/13hpCX46rp3bl_4r5vwNL9Lx96IE2pVMe  
+**Link to Jupyter Notebook for Machine Learning in Google Colab :** https://colab.research.google.com/drive/1GmNZeoFnNALsfQp8AyewX88EMXs1hlGG
 
 
 ### Olympic Games Analytics
