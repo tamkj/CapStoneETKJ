@@ -62,7 +62,7 @@ Data issue
 3. Age 75 and above - mainly for event from 1912 to 1948.
 4. noc_region.csv - some country name is listed in note. 
 5. noc_region.csv - Name of fields is in 2nd row of each column.
-6. noc_region.cvs - Singapore NOC code in csv is SIN while NOC code in main dataset is SIN.
+6. noc_region.cvs - Singapore NOC code in csv is SIN while NOC code in main dataset is SGP.
 7. Respective host cities and countries (ie SummmerOlympic2.cvs) are sourced from internet. 
 
 Cleansing
